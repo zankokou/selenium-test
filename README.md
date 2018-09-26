@@ -1,4 +1,7 @@
-# selenium-test
+# selenium-test - How to do a YouTube Search
+
+#Description
+The following program will do an automated test on YouTube.com performing a google search
 
 # Installation
 
